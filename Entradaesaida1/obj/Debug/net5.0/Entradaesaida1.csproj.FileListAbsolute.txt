@@ -1,0 +1,16 @@
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\bin\Debug\net5.0\Entradaesaida1.exe
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\bin\Debug\net5.0\Entradaesaida1.deps.json
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\bin\Debug\net5.0\Entradaesaida1.runtimeconfig.json
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\bin\Debug\net5.0\Entradaesaida1.runtimeconfig.dev.json
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\bin\Debug\net5.0\Entradaesaida1.dll
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\bin\Debug\net5.0\Entradaesaida1.pdb
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.csproj.AssemblyReference.cache
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.AssemblyInfoInputs.cache
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.AssemblyInfo.cs
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.csproj.CoreCompileInputs.cache
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.dll
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\refint\Entradaesaida1.dll
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.pdb
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\Entradaesaida1.genruntimeconfig.cache
+C:\ProjetoCharp\Entradaesaida1\Entradaesaida1\obj\Debug\net5.0\ref\Entradaesaida1.dll
